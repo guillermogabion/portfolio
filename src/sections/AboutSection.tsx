@@ -34,7 +34,7 @@ function AboutSection() {
       <div className="max-w-5xl w-full">
         <h2 className="text-2xl font-semibold mb-8 text-center">About Me</h2>
         <p className="text-gray-700 mb-12 text-center">
-          I have a background in computer science and several years of experience in web development. My stack includes React, Node.js, TypeScript, and Laravel. I love solving complex problems and delivering scalable solutions.
+          I have a background in computer science and several years of experience in web development. My stack includes React, Node.js, TypeScript, Flutter, Vue, Javascript, and Laravel. I love solving complex problems and delivering scalable solutions.
         </p>
 
         <div className="relative">
