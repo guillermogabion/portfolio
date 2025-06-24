@@ -7,7 +7,7 @@ function AboutSection() {
       title: 'Mid-Level Fullstack Web Developer',
       company: 'Sven Group',
       period: 'May 2025 – Present',
-      location: '',
+      location: '40 Scout, Sct. Ybardolaza, St, Quezon City, 1880, Philippines',
     },
     {
       title: 'Mid‑Level Web Application Software Engineer',
