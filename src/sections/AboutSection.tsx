@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 function AboutSection() {
   const experiences = [
     {
-      title: 'Fullstack Web Developer',
+      title: 'Mid-Level Fullstack Web Developer',
       company: 'Sven Group',
       period: 'May 2025 – Present',
       location: '',
